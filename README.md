@@ -8,8 +8,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<p><img align="right" src="https://github.com/TH3-MA3STRO/th3-ma3stro/blob/main/animation.gif" alt="th3-ma3stro" /></p>
 
 - 🌱 I’m currently learning about Data Structures and Algorithms
 
