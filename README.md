@@ -13,9 +13,13 @@
 
 - 🌱 I’m currently learning about Data Structures and Algorithms
 
-- 📫 How to reach me **satyamjha778@gmail.com**
+- 📫 Reach me at **satyamjha778@gmail.com**
 
-- ⚡ Fun fact :- Gym🏋️‍♂️ and Music🎵 are the reasons to live.
+- 💬 Ask me about **python**, **javascript**, **scripting** and **backend-development**
+
+- 👨‍💻 Check out my [portfolio](https://th3-ma3stro.github.io) 
+
+- 😉 Fun fact :- Gym🏋️‍♂️ and Music🎵 are the reasons to live.
 
 <br>
 
