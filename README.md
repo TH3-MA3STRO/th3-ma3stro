@@ -18,8 +18,6 @@
 
 - 👨‍💻 Check out my [portfolio](https://th3-ma3stro.github.io) 
 
-- 😉 Fun fact :- Gym🏋️‍♂️ and Music🎵 are the reasons to live.
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
