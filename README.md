@@ -10,7 +10,7 @@
 
 <p><img align="right" src="https://github.com/TH3-MA3STRO/th3-ma3stro/blob/main/animation.gif" alt="th3-ma3stro" /></p>
 
-- 👨‍🍳 Cooking hacknight25.tech(https://hacknight25.tech) and hackclubvit.xyz(https://hackclubvit.xyz) rn
+- 👨‍🍳 Cooking [hacknight25.tech](https://hacknight25.tech) and [hackclubvit.xyz](https://hackclubvit.xyz) rn
 
 - 📫 Reach me at **satyamjha778@gmail.com**
 
