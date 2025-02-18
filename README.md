@@ -10,11 +10,11 @@
 
 <p><img align="right" src="https://github.com/TH3-MA3STRO/th3-ma3stro/blob/main/animation.gif" alt="th3-ma3stro" /></p>
 
-- 🌱 I’m currently learning about Data Structures and Algorithms
+- 👨‍🍳 Cooking hacknight25.tech and hackclubvit.xyz rn
 
 - 📫 Reach me at **satyamjha778@gmail.com**
 
-- 💬 Ask me about **python**, **javascript**, **scripting** and **backend-development**
+- 💬 Ask me about **python**, **javascript**, **scripting**, **backend-development**, **nextjs**, **web3**, **rust** and **hackathons**
 
 - 👨‍💻 Check out my [portfolio](https://th3-ma3stro.github.io) 
 
