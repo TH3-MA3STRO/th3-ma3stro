@@ -10,31 +10,32 @@
 
 <p><img align="right" src="https://github.com/TH3-MA3STRO/th3-ma3stro/blob/main/animation.gif" alt="th3-ma3stro" /></p>
 
-- 👨‍🍳 Cooking [hacknight25.tech](https://hacknight25.tech) and [hackclubvit.xyz](https://hackclubvit.xyz) rn
+- 👨‍🍳 Grinding leetcode, rust and genAI rn
 
 - 📫 Reach me at **satyamjha778@gmail.com**
 
 - 💬 Ask me about **python**, **javascript**, **scripting**, **backend-development**, **nextjs**, **web3**, **rust** and **hackathons**
 
-- 👨‍💻 Check out my [portfolio](https://th3-ma3stro.github.io) 
+- 👨‍💻 Check out my [portfolio](https://th3-ma3stro.github.io)
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/th3-ma3stro/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/satyamxjhaa/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="satyam jha" height="30" width="40" /></a>
-  <a href="https://instagram.com/maestro__xd" target="blank"><img align="center"
+<a href="https://instagram.com/satyamxjhaa" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="maestro__xd" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/maestro__xp" target="blank"><img align="center"
+<a href="https://www.hackerrank.com/maestro__xp" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="maestro__xd" height="30" width="40" /></a>
- <a href="https://twitter.com/th3_ma3stro" target="blank"><img align="center"
+<a href="https://twitter.com/th3_ma3stro" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="th3_ma3stro" height="30" width="40" /></a>
+
 </p>
 
 <br>
@@ -92,7 +93,14 @@
       height="40" /> </a>
       <a href="" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> 
+      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" /> </a> 
+      <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a> 
+      <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> 
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> 
+      <a href="https://web3.foundation/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3/web3-original.svg" alt="web3" width="40" height="40" /> </a> 
+      <a href="https://cloud.google.com/generative-ai" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" /> </a> 
+
 
 <br>
 
